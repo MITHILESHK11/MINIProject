@@ -1,0 +1,4 @@
+detection_model: "retinaface"
+recognition_model: "arcface"
+aging_model: "sam"
+similarity_threshold: 0.6

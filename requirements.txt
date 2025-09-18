@@ -1,0 +1,9 @@
+facenet-pytorch==2.5.2
+deepface==0.0.93
+insightface==0.7.3
+retinaface-pytorch==0.0.15
+torch
+torchvision
+opencv-python
+numpy
+pyyaml
